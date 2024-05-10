@@ -46,8 +46,8 @@ End the program.
 
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
-### DEVELOPED BY : ABRIN NISHA A 
-### REGISTER NO : 212222230005
+### DEVELOPED BY : KARTHIK G
+### REGISTER NO : 212223220043
 
 ```
 import pandas as pd
